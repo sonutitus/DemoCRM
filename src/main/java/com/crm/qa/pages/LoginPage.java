@@ -36,4 +36,9 @@ public class LoginPage extends TestBase{
 		
 		return new HomePage();
 	}
+	
+	public void Set() {
+		
+		System.out.println("Set");
+	}
 }
