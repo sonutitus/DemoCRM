@@ -1,0 +1,108 @@
+2020-10-22 13:59:02,526 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-22 13:59:02,550 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-22 13:59:02,553 [main] INFO LoginPageTest - Asserting finished
+2020-10-22 13:59:16,492 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-22 13:59:17,040 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-22 13:59:32,065 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-22 13:59:32,092 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-22 13:59:47,170 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-22 13:59:49,512 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-22 14:00:04,331 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-22 14:00:06,844 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:14:21,617 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:14:21,960 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:14:33,547 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:14:33,571 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:14:33,572 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:14:44,663 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:14:46,538 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:14:56,584 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 14:14:57,081 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 14:15:07,152 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:15:09,276 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:22:01,912 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:22:01,935 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:22:01,937 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:22:13,122 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 14:22:13,658 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 14:22:23,049 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:22:23,077 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:22:32,707 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:22:34,136 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:22:45,304 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:22:48,147 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:24:56,667 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:24:56,689 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:24:56,691 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:25:05,586 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 14:25:06,137 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 14:25:16,470 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:25:16,508 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:25:27,095 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:25:29,239 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:25:43,352 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:25:45,287 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:31:56,807 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:31:56,831 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:31:56,834 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:32:11,581 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 14:32:12,199 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 14:32:22,322 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:32:22,356 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:32:33,011 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:32:34,353 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:32:43,758 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:32:47,046 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:35:47,434 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:35:47,453 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:35:47,456 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:36:23,640 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:36:23,672 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:36:33,861 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:36:35,823 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:36:46,384 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:36:49,074 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:42:31,263 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:42:31,298 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:42:31,302 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:42:39,936 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 14:42:40,480 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 14:42:50,066 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:42:50,084 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:42:59,623 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:43:00,935 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:43:10,439 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:43:20,220 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:54:29,006 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:54:29,222 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:54:29,330 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:54:39,512 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 14:54:40,266 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 14:54:52,213 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:54:52,248 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:55:02,749 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:55:05,733 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:55:16,281 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:55:19,150 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 14:58:46,160 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 14:58:46,230 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 14:58:46,234 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 14:58:56,209 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 14:58:56,750 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 14:59:06,000 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 14:59:06,031 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 14:59:15,464 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 14:59:17,184 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 14:59:26,384 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 14:59:28,936 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
+2020-10-28 15:03:31,789 [main] INFO LoginPageTest - Calling method validateLoginPageTitle() and storing in STRING title
+2020-10-28 15:03:31,819 [main] INFO LoginPageTest - After getting value in STRING title, now going to comapre using Assert
+2020-10-28 15:03:31,822 [main] INFO LoginPageTest - Asserting finished
+2020-10-28 15:03:41,322 [main] INFO LoginPageTest - Calling method loginFuctionalityTest() fuctionality checking for login
+2020-10-28 15:03:41,827 [main] INFO LoginPageTest - Fininshed checking functionality
+2020-10-28 15:03:51,625 [main] INFO HomePageTest - Inside verifyHomePageTitleTest
+2020-10-28 15:03:51,646 [main] INFO HomePageTest - Inside verifyHomePageTitleTest - HomePage Title Value Stored to String and Next step Asserting Starts...
+2020-10-28 15:04:01,865 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Asserting Starts...
+2020-10-28 15:04:03,861 [main] INFO HomePageTest - Inside verifyUsernameDisplayedTest - Assert Finished
+2020-10-28 15:04:13,608 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Asserting Starts...
+2020-10-28 15:04:16,551 [main] INFO HomePageTest - Inside verifyuserEmailDisplayedTest - Assert Finished
