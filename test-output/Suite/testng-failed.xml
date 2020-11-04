@@ -6,19 +6,22 @@
   </listeners>
   <test name="Test CRM APP Test Cases(failed)">
     <classes>
-      <class name="com.crm.qa.testcases.HomePageTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="setUp"/>
-          <include name="verifyHomePageTitleTest"/>
-        </methods>
-      </class> <!-- com.crm.qa.testcases.HomePageTest -->
       <class name="com.crm.qa.testcases.LoginPageTest">
         <methods>
           <include name="setUp"/>
           <include name="teardown"/>
+          <include name="loginPageTitleTest"/>
+          <include name="loginFuctionalityTest"/>
         </methods>
       </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <methods>
+          <include name="verifyUsernameDisplayedTest"/>
+          <include name="setUp"/>
+          <include name="verifyuserEmailDisplayedTest"/>
+          <include name="verifyHomePageTitleTest"/>
+        </methods>
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
     </classes>
   </test> <!-- Test CRM APP Test Cases(failed) -->
 </suite> <!-- Failed suite [Suite] -->
